@@ -10,8 +10,8 @@
 
 ```json
 {
-    "username":<USERNAME>,
-    "password":<PASSWORD>
+    "username":"nome_do_usuario_aqui",
+    "password":"senha_do_usuario"
 }
 ```
 ## Usando
