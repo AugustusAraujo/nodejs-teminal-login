@@ -18,4 +18,4 @@
 
 ### Primeiro instale as dependências com `npm install`
 
-### Depois user `npx ts-node index.ts`
+### Depois use `npx ts-node index.ts`
